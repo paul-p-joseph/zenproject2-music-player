@@ -1,0 +1,26 @@
+[
+{
+    "title": "Importados",
+    "artist": "Mindplax",
+    "img_src": "./images/cover.jpg",
+    "src": "./songs/01  Mindplax - Importados.mp3"
+},
+{   
+     "title": "Dance Tonight",
+    "artist": "Mindplax",
+    "img_src": "./images/cover.jpg",
+    "src": "./songs/02  Mindplax - Dance Tonight.mp3"
+},
+{   
+         "title": " The Cut",
+        "artist": "Mindplax feat Psykovsky",
+        "img_src": "./images/cover.jpg",
+        "src": "./songs/03  Mindplax feat Psykovsky - The Cut.mp3"
+},
+{  
+              "title": "Buon Appetito",
+            "artist": "Mindplax & Sectio Aurea & Necropsycho",
+            "img_src": "./images/cover.jpg",
+            "src": "./songs/04  Mindplax & Sectio Aurea & Necropsycho - Buon Appetito.mp3"
+}
+]
